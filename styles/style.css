@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(11, 2, 70);
+}
+
+.container {
+    background-image: url("header.jpg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    width: 992px;
+}
+
+.header-info {
+    color: white;
+    width: 50%;
+}
+
+/* .header-img {
+    width: 50%;
+} */
